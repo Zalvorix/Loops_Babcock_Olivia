@@ -1,0 +1,13 @@
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.csproj.AssemblyReference.cache
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.AssemblyInfoInputs.cache
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.AssemblyInfo.cs
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.csproj.CoreCompileInputs.cache
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\bin\Debug\netcoreapp3.1\Loops_Babcock_Olivia.exe
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\bin\Debug\netcoreapp3.1\Loops_Babcock_Olivia.deps.json
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\bin\Debug\netcoreapp3.1\Loops_Babcock_Olivia.runtimeconfig.json
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\bin\Debug\netcoreapp3.1\Loops_Babcock_Olivia.runtimeconfig.dev.json
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\bin\Debug\netcoreapp3.1\Loops_Babcock_Olivia.dll
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\bin\Debug\netcoreapp3.1\Loops_Babcock_Olivia.pdb
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.dll
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.pdb
+C:\Users\olivia.babcock\source\repos\Loops_Babcock_Olivia\Loops_Babcock_Olivia\obj\Debug\netcoreapp3.1\Loops_Babcock_Olivia.genruntimeconfig.cache
